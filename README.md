@@ -1,4 +1,4 @@
-PFD
+PFD (An awesome project)
 ===
 
 Python scripts for scraping data or downloading documents from various websites, including:
